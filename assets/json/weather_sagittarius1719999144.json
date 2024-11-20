@@ -1,0 +1,138 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/weather_sagittarius.svg",
+    "baseName": "weather_sagittarius.svg",
+    "format": "SVG",
+    "formatDescription": "SVG",
+    "mimeType": "image/svg+xml",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 21,
+      "height": 17,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "GrayscaleAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 16,
+    "baseDepth": 16,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 16,
+      "green": 16,
+      "blue": 1
+    },
+    "pixels": 1428,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 65535,
+        "mean": 60772.1,
+        "median": 65535,
+        "standardDeviation": 13378.5,
+        "kurtosis": 9.37523,
+        "skewness": -3.30122,
+        "entropy": 0.190076
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 65535,
+        "max": 65535,
+        "mean": 65535,
+        "median": 65535,
+        "standardDeviation": 0,
+        "kurtosis": -6.5536e+52,
+        "skewness": 8.75e+35,
+        "entropy": 0
+      },
+      "red": {
+        "min": 0,
+        "max": 65535,
+        "mean": 59184.4,
+        "median": 65535,
+        "standardDeviation": 17838,
+        "kurtosis": 5.81941,
+        "skewness": -2.72622,
+        "entropy": 0.253435
+      },
+      "green": {
+        "min": 0,
+        "max": 65535,
+        "mean": 59184.4,
+        "median": 65535,
+        "standardDeviation": 17838,
+        "kurtosis": 5.81941,
+        "skewness": -2.72622,
+        "entropy": 0.253435
+      },
+      "blue": {
+        "min": 0,
+        "max": 65535,
+        "mean": 59184.4,
+        "median": 65535,
+        "standardDeviation": 17838,
+        "kurtosis": 5.81941,
+        "skewness": -2.72622,
+        "entropy": 0.253435
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 21,
+      "height": 17,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-07-03T09:32:24+00:00",
+      "date:modify": "2024-07-03T09:32:24+00:00",
+      "signature": "d2adfcc78df830e5bc18631e4007121386b86d7f75e4ad752c6c1dc78d5a0401",
+      "svg:comment": " Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch "
+    },
+    "artifacts": {
+      "mvg:vector-graphics": "push graphic-context\ncompliance \"SVG\"\nfill \"black\"\nfill-opacity 1\nstroke \"none\"\nstroke-width 1\nstroke-opacity 1\nfill-rule nonzero\nviewbox 0 0 21 17\naffine 1 0 0 1 -187 -110\n#          Created with Sketch.\npush defs\npop defs\npush graphic-context \"Wind\"\nstroke \"none\"\nstroke-width 1\nfill \"none\"\nfill-rule \"evenodd\"\naffine 0.866025 -0.5 0.5 0.866025 189 120.5\nstroke-linecap \"round\"\npush graphic-context \"Line\"\nstroke \"#000000\"\npath \"M0.5,2.5 L13,2.5\"\npop graphic-context\npush graphic-context \"Triangle-1\"\nstroke \"#000000\"\nstroke-linejoin \"round\"\nfill \"#000000\"\npolygon 13 5 13 1.13686838e-13 17 2.5\npop graphic-context\npop graphic-context\npop graphic-context\n"
+    },
+    "tainted": false,
+    "filesize": "657B",
+    "numberPixels": "357",
+    "pixelsPerSecond": "128121B",
+    "userTime": "0.000u",
+    "elapsedTime": "0:01.002",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]

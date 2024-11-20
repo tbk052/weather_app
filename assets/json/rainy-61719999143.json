@@ -1,0 +1,138 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/rainy-6.svg",
+    "baseName": "rainy-6.svg",
+    "format": "SVG",
+    "formatDescription": "SVG",
+    "mimeType": "image/svg+xml",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 64,
+      "height": 64,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 16,
+    "baseDepth": 16,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 16,
+      "green": 16,
+      "blue": 1
+    },
+    "pixels": 16384,
+    "imageStatistics": {
+      "Overall": {
+        "min": 22359,
+        "max": 65535,
+        "mean": 63433,
+        "median": 65535,
+        "standardDeviation": 5587.97,
+        "kurtosis": 16.6689,
+        "skewness": -4.15538,
+        "entropy": 0.108233
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 65535,
+        "max": 65535,
+        "mean": 65535,
+        "median": 65535,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 1e+36,
+        "entropy": 0
+      },
+      "red": {
+        "min": 22359,
+        "max": 65535,
+        "mean": 60483.9,
+        "median": 65535,
+        "standardDeviation": 13418.4,
+        "kurtosis": 3.74752,
+        "skewness": -2.37006,
+        "entropy": 0.144012
+      },
+      "green": {
+        "min": 41120,
+        "max": 65535,
+        "mean": 62676.2,
+        "median": 65535,
+        "standardDeviation": 7591.87,
+        "kurtosis": 3.73634,
+        "skewness": -2.36803,
+        "entropy": 0.144012
+      },
+      "blue": {
+        "min": 61166,
+        "max": 65535,
+        "mean": 65036.8,
+        "median": 65535,
+        "standardDeviation": 1341.58,
+        "kurtosis": 4.07855,
+        "skewness": -2.43592,
+        "entropy": 0.144908
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 64,
+      "height": 64,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-07-03T09:32:23+00:00",
+      "date:modify": "2024-07-03T09:32:23+00:00",
+      "signature": "e6df5e2fac538d3e3f5cbaa56884cbb2afc23b245f510811c35b51ea79c090a5",
+      "svg:comment": " (c) ammap.com | SVG weather icons "
+    },
+    "artifacts": {
+      "mvg:vector-graphics": "push graphic-context\ncompliance \"SVG\"\nfill \"black\"\nfill-opacity 1\nstroke \"none\"\nstroke-width 1\nstroke-opacity 1\nfill-rule nonzero\nencoding \"utf-8\"\nviewbox 0 0 64 64\naffine 1 0 0 1 0 0\npush defs\npop defs\npush graphic-context \"rainy-6\"\npush graphic-context\naffine 1 0 0 1 20 10\npush graphic-context\npush graphic-context\nfill \"#57A0EE\"\nstroke \"white\"\nstroke-linejoin \"round\"\nstroke-width 1.2\naffine 1 0 0 1 -20 -11\npath \"M47.7,35.4c0-4.6-3.7-8.2-8.2-8.2c-1,0-1.9,0.2-2.8,0.5c-0.3-3.4-3.1-6.2-6.6-6.2c-3.7,0-6.7,3-6.7,6.7c0,0.8,0.2,1.6,0.4,2.3    c-0.3-0.1-0.7-0.1-1-0.1c-3.7,0-6.7,3-6.7,6.7c0,3.6,2.9,6.6,6.5,6.7l17.2,0C44.2,43.3,47.7,39.8,47.7,35.4z\"\npop graphic-context\npop graphic-context\npop graphic-context\npush graphic-context\naffine 1 0 0 1 31 46\npush graphic-context\nclass \"am-weather-rain-1\"\nfill \"none\"\nstroke \"#91C0F8\"\nstroke-dasharray 4,4\nstroke-linecap \"round\"\nstroke-width 2\naffine 1 0 0 1 -4 1\nline 0,0 0,8\npop graphic-context\npush graphic-context\nclass \"am-weather-rain-2\"\nfill \"none\"\nstroke \"#91C0F8\"\nstroke-dasharray 4,4\nstroke-linecap \"round\"\nstroke-width 2\naffine 1 0 0 1 0 -1\nline 0,0 0,8\npop graphic-context\npush graphic-context\nclass \"am-weather-rain-1\"\nfill \"none\"\nstroke \"#91C0F8\"\nstroke-dasharray 4,4\nstroke-linecap \"round\"\nstroke-width 2\naffine 1 0 0 1 4 0\nline 0,0 0,8\npop graphic-context\npop graphic-context\npop graphic-context\npop graphic-context\n"
+    },
+    "tainted": false,
+    "filesize": "1374B",
+    "numberPixels": "4096",
+    "pixelsPerSecond": "504395B",
+    "userTime": "0.010u",
+    "elapsedTime": "0:01.008",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]

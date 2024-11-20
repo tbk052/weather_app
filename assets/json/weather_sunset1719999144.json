@@ -1,0 +1,138 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/weather_sunset.svg",
+    "baseName": "weather_sunset.svg",
+    "format": "SVG",
+    "formatDescription": "SVG",
+    "mimeType": "image/svg+xml",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 64,
+      "height": 64,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "GrayscaleAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 16,
+    "baseDepth": 16,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 16,
+      "green": 16,
+      "blue": 1
+    },
+    "pixels": 16384,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 65535,
+        "mean": 50562.2,
+        "median": 65535,
+        "standardDeviation": 21848.5,
+        "kurtosis": -0.250967,
+        "skewness": -1.29127,
+        "entropy": 0.18418
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 65535,
+        "max": 65535,
+        "mean": 65535,
+        "median": 65535,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 1e+36,
+        "entropy": 0
+      },
+      "red": {
+        "min": 0,
+        "max": 65535,
+        "mean": 45571.3,
+        "median": 65535,
+        "standardDeviation": 29131.3,
+        "kurtosis": -1.20709,
+        "skewness": -0.846961,
+        "entropy": 0.245574
+      },
+      "green": {
+        "min": 0,
+        "max": 65535,
+        "mean": 45571.3,
+        "median": 65535,
+        "standardDeviation": 29131.3,
+        "kurtosis": -1.20709,
+        "skewness": -0.846961,
+        "entropy": 0.245574
+      },
+      "blue": {
+        "min": 0,
+        "max": 65535,
+        "mean": 45571.3,
+        "median": 65535,
+        "standardDeviation": 29131.3,
+        "kurtosis": -1.20709,
+        "skewness": -0.846961,
+        "entropy": 0.245574
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 64,
+      "height": 64,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-07-03T09:32:24+00:00",
+      "date:modify": "2024-07-03T09:32:24+00:00",
+      "signature": "924ac22219b059174a85a76c474b025aec46cace62c817dce429df995f8e9505",
+      "svg:comment": " Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  "
+    },
+    "artifacts": {
+      "mvg:vector-graphics": "push graphic-context \"Layer_1\"\ncompliance \"SVG\"\nfill \"black\"\nfill-opacity 1\nstroke \"none\"\nstroke-width 1\nstroke-opacity 1\nfill-rule nonzero\nencoding \"utf-8\"\nviewbox 0 0 64 64\naffine 1 0 0 1 0 0\npush graphic-context\nfill \"none\"\nstroke \"#000000\"\nstroke-width 2\nstroke-miterlimit \"10\"\nline 0,47 64,47\npop graphic-context\npush graphic-context\nfill \"none\"\nstroke \"#000000\"\nstroke-width 2\nstroke-miterlimit \"10\"\nline 10,37 0,37\npop graphic-context\npush graphic-context\nfill \"none\"\nstroke \"#000000\"\nstroke-width 2\nstroke-miterlimit \"10\"\nline 64,37 54,37\npop graphic-context\npush graphic-context\nfill \"none\"\nstroke \"#000000\"\nstroke-width 2\nstroke-miterlimit \"10\"\nline 32,15 32,4\npop graphic-context\npush graphic-context\nfill \"none\"\nstroke \"#000000\"\nstroke-width 2\nstroke-miterlimit \"10\"\nline 14,23 6,15\npop graphic-context\npush graphic-context\nfill \"none\"\nstroke \"#000000\"\nstroke-width 2\nstroke-miterlimit \"10\"\nline 50,23 58,15\npop graphic-context\npush graphic-context\nfill \"#000000\"\nstroke \"#000000\"\nstroke-width 2\nstroke-miterlimit \"10\"\npath \"M48.159,47C49.96,44.096,51,40.669,51,37  c0-10.493-8.506-19-19-19s-19,8.507-19,19c0,3.668,1.04,7.094,2.841,9.998\"\npop graphic-context\npop graphic-context\n"
+    },
+    "tainted": false,
+    "filesize": "1191B",
+    "numberPixels": "4096",
+    "pixelsPerSecond": "1.11724MB",
+    "userTime": "0.000u",
+    "elapsedTime": "0:01.003",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]

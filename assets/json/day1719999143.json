@@ -1,0 +1,138 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/day.svg",
+    "baseName": "day.svg",
+    "format": "SVG",
+    "formatDescription": "SVG",
+    "mimeType": "image/svg+xml",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 64,
+      "height": 64,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 16,
+    "baseDepth": 16,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 16,
+      "green": 16,
+      "blue": 1
+    },
+    "pixels": 16384,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 65535,
+        "mean": 64453.5,
+        "median": 65535,
+        "standardDeviation": 4496,
+        "kurtosis": 63.0834,
+        "skewness": -7.75773,
+        "entropy": 0.0660766
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 65535,
+        "max": 65535,
+        "mean": 65535,
+        "median": 65535,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 1e+36,
+        "entropy": 0
+      },
+      "red": {
+        "min": 65535,
+        "max": 65535,
+        "mean": 65535,
+        "median": 65535,
+        "standardDeviation": 0,
+        "kurtosis": -3,
+        "skewness": 1e+36,
+        "entropy": 0
+      },
+      "green": {
+        "min": 42405,
+        "max": 65535,
+        "mean": 64406.5,
+        "median": 65535,
+        "standardDeviation": 4691.48,
+        "kurtosis": 16.2171,
+        "skewness": -4.19833,
+        "entropy": 0.132153
+      },
+      "blue": {
+        "min": 0,
+        "max": 65535,
+        "mean": 62337.5,
+        "median": 65535,
+        "standardDeviation": 13292.5,
+        "kurtosis": 16.2171,
+        "skewness": -4.19833,
+        "entropy": 0.132153
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 64,
+      "height": 64,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-07-03T09:32:23+00:00",
+      "date:modify": "2024-07-03T09:32:23+00:00",
+      "signature": "45000e82d5d9ee0c287c1c0ec10384076ece582612e29658badc83298333efb2",
+      "svg:comment": " (c) ammap.com | SVG weather icons "
+    },
+    "artifacts": {
+      "mvg:vector-graphics": "push graphic-context\ncompliance \"SVG\"\nfill \"black\"\nfill-opacity 1\nstroke \"none\"\nstroke-width 1\nstroke-opacity 1\nfill-rule nonzero\nencoding \"utf-8\"\nviewbox 0 0 64 64\naffine 1 0 0 1 0 0\npush defs\npop defs\npush graphic-context \"day\"\npush graphic-context\naffine 1 0 0 1 32 32\npush graphic-context\nclass \"am-weather-sun am-weather-sun-shiny am-weather-easing-ease-in-out\"\npush graphic-context\npush graphic-context\nfill \"none\"\nstroke \"orange\"\nstroke-linecap \"round\"\nstroke-width 2\naffine 1 0 0 1 0 9\nline 0,0 0,3\npop graphic-context\npop graphic-context\npush graphic-context\naffine 0.707107 0.707107 -0.707107 0.707107 0 -4\npush graphic-context\nfill \"none\"\nstroke \"orange\"\nstroke-linecap \"round\"\nstroke-width 2\naffine 1 0 0 1 0 9\nline 0,0 0,3\npop graphic-context\npop graphic-context\npush graphic-context\naffine 6.12323e-17 1 -1 6.12323e-17 0 -4\npush graphic-context\nfill \"none\"\nstroke \"orange\"\nstroke-linecap \"round\"\nstroke-width 2\naffine 1 0 0 1 0 9\nline 0,0 0,3\npop graphic-context\npop graphic-context\npush graphic-context\naffine -0.707107 0.707107 -0.707107 -0.707107 0 -4\npush graphic-context\nfill \"none\"\nstroke \"orange\"\nstroke-linecap \"round\"\nstroke-width 2\naffine 1 0 0 1 0 9\nline 0,0 0,3\npop graphic-context\npop graphic-context\npush graphic-context\naffine -1 1.22465e-16 -1.22465e-16 -1 0 -4\npush graphic-context\nfill \"none\"\nstroke \"orange\"\nstroke-linecap \"round\"\nstroke-width 2\naffine 1 0 0 1 0 9\nline 0,0 0,3\npop graphic-context\npop graphic-context\npush graphic-context\naffine -0.707107 -0.707107 0.707107 -0.707107 0 -4\npush graphic-context\nfill \"none\"\nstroke \"orange\"\nstroke-linecap \"round\"\nstroke-width 2\naffine 1 0 0 1 0 9\nline 0,0 0,3\npop graphic-context\npop graphic-context\npush graphic-context\naffine -1.83697e-16 -1 1 -1.83697e-16 0 -4\npush graphic-context\nfill \"none\"\nstroke \"orange\"\nstroke-linecap \"round\"\nstroke-width 2\naffine 1 0 0 1 0 9\nline 0,0 0,3\npop graphic-context\npop graphic-context\npush graphic-context\naffine 0.707107 -0.707107 0.707107 0.707107 0 -4\npush graphic-context\nfill \"none\"\nstroke \"orange\"\nstroke-linecap \"round\"\nstroke-width 2\naffine 1 0 0 1 0 9\nline 0,0 0,3\npop graphic-context\npop graphic-context\npop graphic-context\npush graphic-context\nfill \"orange\"\nstroke \"orange\"\nstroke-width 2\ncircle 0,0 0,5\npop graphic-context\npop graphic-context\npop graphic-context\npop graphic-context\n"
+    },
+    "tainted": false,
+    "filesize": "2315B",
+    "numberPixels": "4096",
+    "pixelsPerSecond": "1.35407MB",
+    "userTime": "0.000u",
+    "elapsedTime": "0:01.003",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
